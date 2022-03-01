@@ -25,7 +25,6 @@ public class SimpleSocket {
             System.out.print((char)c);
         }
 
-
         socket.close();
     }
 }
